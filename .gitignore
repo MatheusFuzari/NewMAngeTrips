@@ -1,3 +1,7 @@
 venv
 venv/
 /venv
+mangetrips/.env
+.mangetrips/env
+env
+.env
